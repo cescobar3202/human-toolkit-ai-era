@@ -2,13 +2,13 @@
 
 ## Pages
 
-- [Home](/index.md) ([HTML](/index.html))
-- [1. Think Before You Prompt](/lesson-1-think-before-you-prompt.md) ([HTML](/lesson-1-think-before-you-prompt/index.html))
-- [2. Ask Better Questions](/lesson-2-ask-better-questions.md) ([HTML](/lesson-2-ask-better-questions/index.html))
-- [3. Communicate With Clarity](/lesson-3-communicate-with-clarity.md) ([HTML](/lesson-3-communicate-with-clarity/index.html))
-- [4. Develop Judgment](/lesson-4-develop-judgment.md) ([HTML](/lesson-4-develop-judgment/index.html))
-- [5. Stay Curious](/lesson-5-stay-curious.md) ([HTML](/lesson-5-stay-curious/index.html))
-- [6. Build Trust](/lesson-6-build-trust.md) ([HTML](/lesson-6-build-trust/index.html))
-- [7. Protect Your Attention](/lesson-7-protect-your-attention.md) ([HTML](/lesson-7-protect-your-attention/index.html))
-- [8. Keep the Human in the Loop](/lesson-8-keep-the-human-in-the-loop.md) ([HTML](/lesson-8-keep-the-human-in-the-loop/index.html))
-- [About the Talk](/about.md) ([HTML](/about/index.html))
+- [Home](https://cescobar3202.github.io/human-toolkit-ai-era/index.md) ([HTML](https://cescobar3202.github.io/human-toolkit-ai-era/index.html))
+- [1. Think Before You Prompt](https://cescobar3202.github.io/human-toolkit-ai-era/lesson-1-think-before-you-prompt.md) ([HTML](https://cescobar3202.github.io/human-toolkit-ai-era/lesson-1-think-before-you-prompt/index.html))
+- [2. Ask Better Questions](https://cescobar3202.github.io/human-toolkit-ai-era/lesson-2-ask-better-questions.md) ([HTML](https://cescobar3202.github.io/human-toolkit-ai-era/lesson-2-ask-better-questions/index.html))
+- [3. Communicate With Clarity](https://cescobar3202.github.io/human-toolkit-ai-era/lesson-3-communicate-with-clarity.md) ([HTML](https://cescobar3202.github.io/human-toolkit-ai-era/lesson-3-communicate-with-clarity/index.html))
+- [4. Develop Judgment](https://cescobar3202.github.io/human-toolkit-ai-era/lesson-4-develop-judgment.md) ([HTML](https://cescobar3202.github.io/human-toolkit-ai-era/lesson-4-develop-judgment/index.html))
+- [5. Stay Curious](https://cescobar3202.github.io/human-toolkit-ai-era/lesson-5-stay-curious.md) ([HTML](https://cescobar3202.github.io/human-toolkit-ai-era/lesson-5-stay-curious/index.html))
+- [6. Build Trust](https://cescobar3202.github.io/human-toolkit-ai-era/lesson-6-build-trust.md) ([HTML](https://cescobar3202.github.io/human-toolkit-ai-era/lesson-6-build-trust/index.html))
+- [7. Protect Your Attention](https://cescobar3202.github.io/human-toolkit-ai-era/lesson-7-protect-your-attention.md) ([HTML](https://cescobar3202.github.io/human-toolkit-ai-era/lesson-7-protect-your-attention/index.html))
+- [8. Keep the Human in the Loop](https://cescobar3202.github.io/human-toolkit-ai-era/lesson-8-keep-the-human-in-the-loop.md) ([HTML](https://cescobar3202.github.io/human-toolkit-ai-era/lesson-8-keep-the-human-in-the-loop/index.html))
+- [About the Talk](https://cescobar3202.github.io/human-toolkit-ai-era/about.md) ([HTML](https://cescobar3202.github.io/human-toolkit-ai-era/about/index.html))

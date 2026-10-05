@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://cescobar3202.github.io/human-toolkit-ai-era/sitemap.xml

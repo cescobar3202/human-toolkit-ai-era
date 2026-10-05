@@ -1,6 +1,6 @@
 name: "The Human Toolkit for the AI Era"
 description: ""
-baseURL: "/"
+baseURL: "https://cescobar3202.github.io/human-toolkit-ai-era/"
 source: "src"
 theme:
   name: "bootstrap"

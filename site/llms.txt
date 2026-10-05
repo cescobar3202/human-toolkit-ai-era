@@ -1,0 +1,14 @@
+# The Human Toolkit for the AI Era
+
+## Pages
+
+- [Home](/index.md) ([HTML](/index.html))
+- [1. Think Before You Prompt](/lesson-1-think-before-you-prompt.md) ([HTML](/lesson-1-think-before-you-prompt/index.html))
+- [2. Ask Better Questions](/lesson-2-ask-better-questions.md) ([HTML](/lesson-2-ask-better-questions/index.html))
+- [3. Communicate With Clarity](/lesson-3-communicate-with-clarity.md) ([HTML](/lesson-3-communicate-with-clarity/index.html))
+- [4. Develop Judgment](/lesson-4-develop-judgment.md) ([HTML](/lesson-4-develop-judgment/index.html))
+- [5. Stay Curious](/lesson-5-stay-curious.md) ([HTML](/lesson-5-stay-curious/index.html))
+- [6. Build Trust](/lesson-6-build-trust.md) ([HTML](/lesson-6-build-trust/index.html))
+- [7. Protect Your Attention](/lesson-7-protect-your-attention.md) ([HTML](/lesson-7-protect-your-attention/index.html))
+- [8. Keep the Human in the Loop](/lesson-8-keep-the-human-in-the-loop.md) ([HTML](/lesson-8-keep-the-human-in-the-loop/index.html))
+- [About the Talk](/about.md) ([HTML](/about/index.html))

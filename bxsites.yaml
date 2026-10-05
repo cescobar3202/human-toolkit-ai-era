@@ -1,0 +1,10 @@
+name: "The Human Toolkit for the AI Era"
+description: ""
+baseURL: "/"
+source: "src"
+theme:
+  name: "bootstrap"
+  options: {}
+search: true
+nav: []
+markdown: {}

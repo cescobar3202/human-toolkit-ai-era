@@ -3165,7 +3165,7 @@ main p {
 
 @media (max-width: 1100px) {
     .bxsites-cards {
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
     }
 
     main h1 {
@@ -3175,7 +3175,7 @@ main p {
 
 @media (max-width: 700px) {
     .bxsites-cards {
-        grid-template-columns: 1fr;
+        grid-template-columns: 1fr !important;
     }
 
     main {

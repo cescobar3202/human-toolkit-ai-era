@@ -8,3 +8,5 @@ theme:
 search: true
 nav: []
 markdown: {}
+
+faviconUrl: assets/favicon.png

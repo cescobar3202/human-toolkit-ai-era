@@ -9,4 +9,4 @@ search: true
 nav: []
 markdown: {}
 
-faviconUrl: assets/favicon.png
+faviconUrl: assets/theme/favicon.png
